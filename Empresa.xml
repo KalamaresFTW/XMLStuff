@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa cif="A58815801">
+    <nombre>TECNOMUR S.L</nombre>
+    <empleados>
+        <empleado>
+            <dni>12345678T</dni>
+            <nombre>Pepe Pérez</nombre>
+            <edad>25</edad>
+        </empleado>
+        <empleado>
+            <dni>12312331T</dni>
+            <nombre>Pepe Lérez</nombre>
+            <edad>20</edad>
+        </empleado>
+        <empleado>
+            <dni>68786456T</dni>
+            <nombre>Pepe Pingas</nombre>
+            <edad>26</edad>
+        </empleado>
+    </empleados>
+</empresa>

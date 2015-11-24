@@ -1,0 +1,39 @@
+Información de los actores.
+================
+Actores: Actor 1
+***********
+id: 51
+Nome: Elisabeth Shue
+Sexo: muller
+DataNacemento: 06/10/1963
+-------------------------------
+Actor 2
+***********
+id: 139
+Nome: Johnny Depp
+Sexo: home
+DataNacemento: 09/06/1963
+-------------------------------
+Actor 3
+***********
+id: 100
+Nome: Harrison Ford
+Sexo: home
+DataNacemento: 13/07/1943
+-------------------------------
+Actor 4
+***********
+id: 150
+Nome: Sasha Grey
+Sexo: mujer
+DataNacemento: 13/07/1989
+-------------------------------
+Actor 5
+***********
+id: 170
+Nome: Nacho Vidal
+Sexo: home
+DataNacemento: 13/07/1950
+-------------------------------
+================
+Número de actores: 5

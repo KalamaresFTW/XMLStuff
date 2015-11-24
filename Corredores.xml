@@ -1,0 +1,402 @@
+<corredores>
+  <corredor dorsal="0">
+    <nombre>Corredor 0</nombre>
+    <tiempo>57</tiempo>
+  </corredor>
+  <corredor dorsal="1">
+    <nombre>Corredor 1</nombre>
+    <tiempo>30</tiempo>
+  </corredor>
+  <corredor dorsal="2">
+    <nombre>Corredor 2</nombre>
+    <tiempo>79</tiempo>
+  </corredor>
+  <corredor dorsal="3">
+    <nombre>Corredor 3</nombre>
+    <tiempo>58</tiempo>
+  </corredor>
+  <corredor dorsal="4">
+    <nombre>Corredor 4</nombre>
+    <tiempo>70</tiempo>
+  </corredor>
+  <corredor dorsal="5">
+    <nombre>Corredor 5</nombre>
+    <tiempo>40</tiempo>
+  </corredor>
+  <corredor dorsal="6">
+    <nombre>Corredor 6</nombre>
+    <tiempo>2</tiempo>
+  </corredor>
+  <corredor dorsal="7">
+    <nombre>Corredor 7</nombre>
+    <tiempo>80</tiempo>
+  </corredor>
+  <corredor dorsal="8">
+    <nombre>Corredor 8</nombre>
+    <tiempo>6</tiempo>
+  </corredor>
+  <corredor dorsal="9">
+    <nombre>Corredor 9</nombre>
+    <tiempo>69</tiempo>
+  </corredor>
+  <corredor dorsal="10">
+    <nombre>Corredor 10</nombre>
+    <tiempo>55</tiempo>
+  </corredor>
+  <corredor dorsal="11">
+    <nombre>Corredor 11</nombre>
+    <tiempo>93</tiempo>
+  </corredor>
+  <corredor dorsal="12">
+    <nombre>Corredor 12</nombre>
+    <tiempo>27</tiempo>
+  </corredor>
+  <corredor dorsal="13">
+    <nombre>Corredor 13</nombre>
+    <tiempo>72</tiempo>
+  </corredor>
+  <corredor dorsal="14">
+    <nombre>Corredor 14</nombre>
+    <tiempo>51</tiempo>
+  </corredor>
+  <corredor dorsal="15">
+    <nombre>Corredor 15</nombre>
+    <tiempo>18</tiempo>
+  </corredor>
+  <corredor dorsal="16">
+    <nombre>Corredor 16</nombre>
+    <tiempo>86</tiempo>
+  </corredor>
+  <corredor dorsal="17">
+    <nombre>Corredor 17</nombre>
+    <tiempo>55</tiempo>
+  </corredor>
+  <corredor dorsal="18">
+    <nombre>Corredor 18</nombre>
+    <tiempo>11</tiempo>
+  </corredor>
+  <corredor dorsal="19">
+    <nombre>Corredor 19</nombre>
+    <tiempo>1</tiempo>
+  </corredor>
+  <corredor dorsal="20">
+    <nombre>Corredor 20</nombre>
+    <tiempo>69</tiempo>
+  </corredor>
+  <corredor dorsal="21">
+    <nombre>Corredor 21</nombre>
+    <tiempo>13</tiempo>
+  </corredor>
+  <corredor dorsal="22">
+    <nombre>Corredor 22</nombre>
+    <tiempo>70</tiempo>
+  </corredor>
+  <corredor dorsal="23">
+    <nombre>Corredor 23</nombre>
+    <tiempo>95</tiempo>
+  </corredor>
+  <corredor dorsal="24">
+    <nombre>Corredor 24</nombre>
+    <tiempo>60</tiempo>
+  </corredor>
+  <corredor dorsal="25">
+    <nombre>Corredor 25</nombre>
+    <tiempo>82</tiempo>
+  </corredor>
+  <corredor dorsal="26">
+    <nombre>Corredor 26</nombre>
+    <tiempo>60</tiempo>
+  </corredor>
+  <corredor dorsal="27">
+    <nombre>Corredor 27</nombre>
+    <tiempo>92</tiempo>
+  </corredor>
+  <corredor dorsal="28">
+    <nombre>Corredor 28</nombre>
+    <tiempo>32</tiempo>
+  </corredor>
+  <corredor dorsal="29">
+    <nombre>Corredor 29</nombre>
+    <tiempo>66</tiempo>
+  </corredor>
+  <corredor dorsal="30">
+    <nombre>Corredor 30</nombre>
+    <tiempo>69</tiempo>
+  </corredor>
+  <corredor dorsal="31">
+    <nombre>Corredor 31</nombre>
+    <tiempo>96</tiempo>
+  </corredor>
+  <corredor dorsal="32">
+    <nombre>Corredor 32</nombre>
+    <tiempo>57</tiempo>
+  </corredor>
+  <corredor dorsal="33">
+    <nombre>Corredor 33</nombre>
+    <tiempo>17</tiempo>
+  </corredor>
+  <corredor dorsal="34">
+    <nombre>Corredor 34</nombre>
+    <tiempo>68</tiempo>
+  </corredor>
+  <corredor dorsal="35">
+    <nombre>Corredor 35</nombre>
+    <tiempo>5</tiempo>
+  </corredor>
+  <corredor dorsal="36">
+    <nombre>Corredor 36</nombre>
+    <tiempo>45</tiempo>
+  </corredor>
+  <corredor dorsal="37">
+    <nombre>Corredor 37</nombre>
+    <tiempo>49</tiempo>
+  </corredor>
+  <corredor dorsal="38">
+    <nombre>Corredor 38</nombre>
+    <tiempo>71</tiempo>
+  </corredor>
+  <corredor dorsal="39">
+    <nombre>Corredor 39</nombre>
+    <tiempo>22</tiempo>
+  </corredor>
+  <corredor dorsal="40">
+    <nombre>Corredor 40</nombre>
+    <tiempo>44</tiempo>
+  </corredor>
+  <corredor dorsal="41">
+    <nombre>Corredor 41</nombre>
+    <tiempo>48</tiempo>
+  </corredor>
+  <corredor dorsal="42">
+    <nombre>Corredor 42</nombre>
+    <tiempo>5</tiempo>
+  </corredor>
+  <corredor dorsal="43">
+    <nombre>Corredor 43</nombre>
+    <tiempo>96</tiempo>
+  </corredor>
+  <corredor dorsal="44">
+    <nombre>Corredor 44</nombre>
+    <tiempo>48</tiempo>
+  </corredor>
+  <corredor dorsal="45">
+    <nombre>Corredor 45</nombre>
+    <tiempo>57</tiempo>
+  </corredor>
+  <corredor dorsal="46">
+    <nombre>Corredor 46</nombre>
+    <tiempo>59</tiempo>
+  </corredor>
+  <corredor dorsal="47">
+    <nombre>Corredor 47</nombre>
+    <tiempo>58</tiempo>
+  </corredor>
+  <corredor dorsal="48">
+    <nombre>Corredor 48</nombre>
+    <tiempo>57</tiempo>
+  </corredor>
+  <corredor dorsal="49">
+    <nombre>Corredor 49</nombre>
+    <tiempo>98</tiempo>
+  </corredor>
+  <corredor dorsal="50">
+    <nombre>Corredor 50</nombre>
+    <tiempo>79</tiempo>
+  </corredor>
+  <corredor dorsal="51">
+    <nombre>Corredor 51</nombre>
+    <tiempo>46</tiempo>
+  </corredor>
+  <corredor dorsal="52">
+    <nombre>Corredor 52</nombre>
+    <tiempo>86</tiempo>
+  </corredor>
+  <corredor dorsal="53">
+    <nombre>Corredor 53</nombre>
+    <tiempo>64</tiempo>
+  </corredor>
+  <corredor dorsal="54">
+    <nombre>Corredor 54</nombre>
+    <tiempo>82</tiempo>
+  </corredor>
+  <corredor dorsal="55">
+    <nombre>Corredor 55</nombre>
+    <tiempo>84</tiempo>
+  </corredor>
+  <corredor dorsal="56">
+    <nombre>Corredor 56</nombre>
+    <tiempo>80</tiempo>
+  </corredor>
+  <corredor dorsal="57">
+    <nombre>Corredor 57</nombre>
+    <tiempo>5</tiempo>
+  </corredor>
+  <corredor dorsal="58">
+    <nombre>Corredor 58</nombre>
+    <tiempo>46</tiempo>
+  </corredor>
+  <corredor dorsal="59">
+    <nombre>Corredor 59</nombre>
+    <tiempo>7</tiempo>
+  </corredor>
+  <corredor dorsal="60">
+    <nombre>Corredor 60</nombre>
+    <tiempo>69</tiempo>
+  </corredor>
+  <corredor dorsal="61">
+    <nombre>Corredor 61</nombre>
+    <tiempo>43</tiempo>
+  </corredor>
+  <corredor dorsal="62">
+    <nombre>Corredor 62</nombre>
+    <tiempo>76</tiempo>
+  </corredor>
+  <corredor dorsal="63">
+    <nombre>Corredor 63</nombre>
+    <tiempo>41</tiempo>
+  </corredor>
+  <corredor dorsal="64">
+    <nombre>Corredor 64</nombre>
+    <tiempo>51</tiempo>
+  </corredor>
+  <corredor dorsal="65">
+    <nombre>Corredor 65</nombre>
+    <tiempo>16</tiempo>
+  </corredor>
+  <corredor dorsal="66">
+    <nombre>Corredor 66</nombre>
+    <tiempo>26</tiempo>
+  </corredor>
+  <corredor dorsal="67">
+    <nombre>Corredor 67</nombre>
+    <tiempo>97</tiempo>
+  </corredor>
+  <corredor dorsal="68">
+    <nombre>Corredor 68</nombre>
+    <tiempo>1</tiempo>
+  </corredor>
+  <corredor dorsal="69">
+    <nombre>Corredor 69</nombre>
+    <tiempo>22</tiempo>
+  </corredor>
+  <corredor dorsal="70">
+    <nombre>Corredor 70</nombre>
+    <tiempo>75</tiempo>
+  </corredor>
+  <corredor dorsal="71">
+    <nombre>Corredor 71</nombre>
+    <tiempo>78</tiempo>
+  </corredor>
+  <corredor dorsal="72">
+    <nombre>Corredor 72</nombre>
+    <tiempo>3</tiempo>
+  </corredor>
+  <corredor dorsal="73">
+    <nombre>Corredor 73</nombre>
+    <tiempo>84</tiempo>
+  </corredor>
+  <corredor dorsal="74">
+    <nombre>Corredor 74</nombre>
+    <tiempo>48</tiempo>
+  </corredor>
+  <corredor dorsal="75">
+    <nombre>Corredor 75</nombre>
+    <tiempo>72</tiempo>
+  </corredor>
+  <corredor dorsal="76">
+    <nombre>Corredor 76</nombre>
+    <tiempo>53</tiempo>
+  </corredor>
+  <corredor dorsal="77">
+    <nombre>Corredor 77</nombre>
+    <tiempo>51</tiempo>
+  </corredor>
+  <corredor dorsal="78">
+    <nombre>Corredor 78</nombre>
+    <tiempo>5</tiempo>
+  </corredor>
+  <corredor dorsal="79">
+    <nombre>Corredor 79</nombre>
+    <tiempo>0</tiempo>
+  </corredor>
+  <corredor dorsal="80">
+    <nombre>Corredor 80</nombre>
+    <tiempo>91</tiempo>
+  </corredor>
+  <corredor dorsal="81">
+    <nombre>Corredor 81</nombre>
+    <tiempo>79</tiempo>
+  </corredor>
+  <corredor dorsal="82">
+    <nombre>Corredor 82</nombre>
+    <tiempo>39</tiempo>
+  </corredor>
+  <corredor dorsal="83">
+    <nombre>Corredor 83</nombre>
+    <tiempo>88</tiempo>
+  </corredor>
+  <corredor dorsal="84">
+    <nombre>Corredor 84</nombre>
+    <tiempo>39</tiempo>
+  </corredor>
+  <corredor dorsal="85">
+    <nombre>Corredor 85</nombre>
+    <tiempo>51</tiempo>
+  </corredor>
+  <corredor dorsal="86">
+    <nombre>Corredor 86</nombre>
+    <tiempo>56</tiempo>
+  </corredor>
+  <corredor dorsal="87">
+    <nombre>Corredor 87</nombre>
+    <tiempo>4</tiempo>
+  </corredor>
+  <corredor dorsal="88">
+    <nombre>Corredor 88</nombre>
+    <tiempo>82</tiempo>
+  </corredor>
+  <corredor dorsal="89">
+    <nombre>Corredor 89</nombre>
+    <tiempo>47</tiempo>
+  </corredor>
+  <corredor dorsal="90">
+    <nombre>Corredor 90</nombre>
+    <tiempo>54</tiempo>
+  </corredor>
+  <corredor dorsal="91">
+    <nombre>Corredor 91</nombre>
+    <tiempo>0</tiempo>
+  </corredor>
+  <corredor dorsal="92">
+    <nombre>Corredor 92</nombre>
+    <tiempo>77</tiempo>
+  </corredor>
+  <corredor dorsal="93">
+    <nombre>Corredor 93</nombre>
+    <tiempo>49</tiempo>
+  </corredor>
+  <corredor dorsal="94">
+    <nombre>Corredor 94</nombre>
+    <tiempo>0</tiempo>
+  </corredor>
+  <corredor dorsal="95">
+    <nombre>Corredor 95</nombre>
+    <tiempo>29</tiempo>
+  </corredor>
+  <corredor dorsal="96">
+    <nombre>Corredor 96</nombre>
+    <tiempo>57</tiempo>
+  </corredor>
+  <corredor dorsal="97">
+    <nombre>Corredor 97</nombre>
+    <tiempo>97</tiempo>
+  </corredor>
+  <corredor dorsal="98">
+    <nombre>Corredor 98</nombre>
+    <tiempo>35</tiempo>
+  </corredor>
+  <corredor dorsal="99">
+    <nombre>Corredor 99</nombre>
+    <tiempo>26</tiempo>
+  </corredor>
+</corredores>

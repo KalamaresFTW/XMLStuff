@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Actores xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Actores.xsd">
+    <Actor id="51">
+        <Nome>Elisabeth Shue</Nome>
+        <Sexo>muller</Sexo>
+        <DataNacemento formato="dd/mm/aa">06/10/1963</DataNacemento>
+    </Actor>
+    <Actor id="139">
+        <Nome>Johnny Depp</Nome>
+        <Sexo>home</Sexo>
+        <DataNacemento formato="dd/mm/aa">09/06/1963</DataNacemento>
+    </Actor>
+    <Actor id="100">
+        <Nome>Harrison Ford</Nome>
+        <Sexo>home</Sexo>
+        <DataNacemento formato="dd/mm/aa">13/07/1943</DataNacemento>
+    </Actor>
+    <Actor id="150">
+        <Nome>Sasha Grey</Nome>
+        <Sexo>mujer</Sexo>
+        <DataNacemento formato="dd/mm/aa">13/07/1989</DataNacemento>
+    </Actor>
+    <Actor id="170">
+        <Nome>Nacho Vidal</Nome>
+        <Sexo>home</Sexo>
+        <DataNacemento formato="dd/mm/aa">13/07/1950</DataNacemento>
+    </Actor>
+</Actores>

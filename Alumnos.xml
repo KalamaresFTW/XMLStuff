@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<alumnos>
+  <alumno>
+    <nome>Pepe</nome>
+    <nota>10</nota>
+  </alumno>
+  <alumno>
+    <nome>Pingas</nome>
+    <nota>5</nota>
+  </alumno>
+  <alumno>
+    <nome>SadBoyz</nome>
+    <nota>2001</nota>
+  </alumno>
+  <alumno>
+    <nome>SHAWTY</nome>
+    <nota>15</nota>
+  </alumno>
+  <alumno>
+    <nome>EmotionalBoyz</nome>
+    <nota>2003</nota>
+  </alumno>
+</alumnos>

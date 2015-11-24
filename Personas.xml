@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Personas>
+    <Estudiante>
+        <Nombre>Pablo</Nombre>
+        <Edad>21</Edad>
+        <Informacion>
+            <Dirección>
+                <Calle>Entrecortiñas</Calle>
+                <Número>15</Número>
+                <Localidad>Illa de Arousa</Localidad>
+                <Provincia>Pontevedra</Provincia>
+            </Dirección>
+            <Telefonos>123456789 987654321</Telefonos>
+        </Informacion>
+        <Universidad>UDC</Universidad>
+        <Carrera>Informática</Carrera>
+    </Estudiante>
+    <Trabajador>
+        <Nombre>Perico</Nombre>
+        <Edad>26</Edad>
+        <Informacion>
+            <Dirección>
+                <Calle>Calle falsa</Calle>
+                <Número>123</Número>
+                <Localidad>Pontevedra</Localidad>
+                <Provincia>Pontevedra</Provincia>
+            </Dirección>
+            <Telefonos>41984119 91981981</Telefonos>
+        </Informacion>
+        <Empresa>Empresa Random S.L</Empresa>
+        <Puesto>Jefaso</Puesto>
+        <Sueldo>9999.15</Sueldo>
+    </Trabajador>
+</Personas>

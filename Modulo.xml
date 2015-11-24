@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modulo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="D:/pcostoubi/NetBeans%20Projects/Unidad2/Modulo.xsd">
+  <Nome>Redes de Area Local</Nome>
+  <Contidos>
+    <Bloque sesions="60" num="1">
+      <Titulo>Sistemas de Comunicanions</Titulo>
+      <Descricion>Aspectos fisicos, protocolos e arquitecturas de redes</Descricion>
+    </Bloque>
+    <Bloque sesions="50" num="2">
+      <Titulo>Redes de Datos</Titulo>
+      <Descricion>Dispositivos de interconexion de redes locais e de area extensa</Descricion>
+    </Bloque>
+    <Bloque sesions="90" num="3">
+      <Titulo>Redes de area local</Titulo>
+      <Descricion>Administracion e xestion dunha rede de area local</Descricion>
+    </Bloque>
+    <Bloque sesions="60" num="4">
+      <Titulo>Servizos Internet</Titulo>
+      <Descricion>Adm. de servizos que empreguen protocolos estandar en Internet</Descricion>
+    </Bloque>
+  </Contidos>
+</Modulo>

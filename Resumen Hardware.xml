@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hardware>
+    <Maquina fabr="Dell">
+        <Nome>PC017 (PC Sobremesa)</Nome>
+        <Capacidade tecnoloxía="SATA">500</Capacidade>
+    </Maquina>
+    <Maquina fabr="Fujitsu-Siemens">
+        <Nome>GALILEO (Torre)</Nome>
+        <Capacidade tecnoloxía="SCSI">600</Capacidade>
+    </Maquina>
+    <Maquina fabr="Fujitsu-Siemens"><!--Sin tarxeta de rede-->
+        <Nome>PC007 (Semitorre)</Nome>
+        <Capacidade tecnoloxía="">40</Capacidade>
+    </Maquina>
+    <Maquina fabr="OKI"><!--Monocromo, dúplex,red-->
+        <Nome>PR007 (Impresora láser)</Nome>
+        <Capacidade tecnoloxía="">0</Capacidade>
+    </Maquina>
+</Hardware>
