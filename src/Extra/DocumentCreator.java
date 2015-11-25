@@ -65,7 +65,22 @@ public class DocumentCreator {
     }
 
     private String reemplazo(String linea) {
-        String replaceAll = linea.replaceAll(separador + "Nombre" + separador, linea);
-        return replaceAll;
+        if (linea.contains("%Nombre%")) {
+            return linea.replaceAll("%Nombre%", this.nombre);
+        } else {
+            if (linea.contains("%Cargo%")) {
+                return linea.replaceAll("%Cargo%", this.cargo);
+            } else {
+                if (linea.contains("%Direccion%")) {
+                    return linea.replaceAll("%Direccion%", this.direccion);
+                } else {
+                    if (linea.contains("%Aumento%")) {
+                        return linea.replaceAll("%Aumento%", String.valueOf(this.aumento));
+                    } else {
+                        return linea;
+                    }
+                }
+            }
+        }
     }
 }
