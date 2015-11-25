@@ -4,13 +4,11 @@ package Extra;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
-import java.io.EOFException;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.Writer;
 
 /**
  *
@@ -19,11 +17,11 @@ import java.io.Writer;
 public class DocumentCreator {
 
     private static int count = 0;
-    private String nombre;
-    private String cargo;
-    private String direccion;
-    private double aumento;
-    private char separador;
+    private final String nombre;
+    private final String cargo;
+    private final String direccion;
+    private final double aumento;
+    private final char separador;
 
     public DocumentCreator(String nombre, String cargo, String direccion, double aumento, char separador) {
         count++;
@@ -32,7 +30,6 @@ public class DocumentCreator {
         this.direccion = direccion;
         this.aumento = aumento;
         this.separador = separador;
-
     }
 
     public void createDocument() {
@@ -46,22 +43,15 @@ public class DocumentCreator {
 
             String linea = r.readLine();
             while (linea != null) {
-                System.out.println(linea);
                 w.write(reemplazo(linea));
                 w.write(System.lineSeparator());
                 linea = r.readLine();
             }
-
             w.close();
             r.close();
         } catch (IOException ex) {
             System.err.println("Error de I/O");
         }
-    }
-
-    @Override
-    public String toString() {
-        return "DocumentCreator{" + "nombre=" + nombre + ", cargo=" + cargo + ", direccion=" + direccion + ", aumento=" + aumento + ", separador=" + separador + '}';
     }
 
     private String reemplazo(String linea) {

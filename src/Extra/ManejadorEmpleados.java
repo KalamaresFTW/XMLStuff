@@ -17,7 +17,7 @@ public class ManejadorEmpleados extends DefaultHandler {
     private boolean esSeparador;
     private boolean esEmpleado;
     private boolean esNombre;
-    private HashMap datos;
+    private final HashMap datos;
     private boolean esCargo;
     private boolean esDireccion;
     private boolean esAumento;
