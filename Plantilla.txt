@@ -1,0 +1,16 @@
+%Nombre%
+%Cargo%
+%Direccion%
+
+
+	Estimado %Nombre%:
+	
+	Este año 2015, nuestra empresa ha aumentado sus ventas un 40%, gracias
+	al esfuerzo de todos, por lo que, en agradecimiento a la labor prestada
+	aumentamos %Aumento%€ su sueldo a partir del próximo mes de Enero.
+
+	Un cordial saludo:
+							25 de Noviembre de 2015
+								
+							Pablo Costa Oubiña
+							Presidente

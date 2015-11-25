@@ -1,6 +1,7 @@
 package Actividad4;
 
-import Actividad4.ClasesEjercicio2.*;
+import Actividad4.ClasesEjercicio2.Alumno;
+import Actividad4.ClasesEjercicio2.Alumnos;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import com.thoughtworks.xstream.XStream;

@@ -1,6 +1,7 @@
 package Actividad4;
 
-import Actividad4.ClasesEjercicio1.*;
+import Actividad4.ClasesEjercicio1.Corredores;
+import Actividad4.ClasesEjercicio1.Corredor;
 import com.thoughtworks.xstream.XStream;
 import java.io.FileInputStream;
 import java.io.IOException;

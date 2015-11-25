@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<empleados>
+<separador>%</separador>
+<empleado>
+  <nombre>Pablo</nombre>
+  <cargo>presidente</cargo>
+  <direccion>Entrecortiñas nº 15</direccion>
+  <aumento>1000</aumento>
+</empleado>
+<empleado>
+  <nombre>Pepe</nombre>
+  <cargo>vicepresidente</cargo>
+  <direccion>Calle Falsa nº123</direccion>
+  <aumento>300</aumento>
+</empleado>
+<empleado>
+  <nombre>Peip</nombre>
+  <cargo>vicevicepresidente</cargo>
+  <direccion>Calle falsa nº321</direccion>
+  <aumento>100</aumento>
+</empleado>
+</empleados>
